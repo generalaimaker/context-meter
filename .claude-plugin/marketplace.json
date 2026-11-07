@@ -1,0 +1,5 @@
+{
+  "name": "context-meter",
+  "owner": { "name": "Hyunwoo Park" },
+  "plugins": [{ "name": "context-meter", "source": "./" }]
+}

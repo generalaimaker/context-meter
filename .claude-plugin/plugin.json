@@ -1,0 +1,7 @@
+{
+  "name": "context-meter",
+  "version": "0.1.0",
+  "description": "Shows how full the session's context window is, one line above the prompt, after every turn",
+  "author": { "name": "Hyunwoo Park" },
+  "types": "./types/index.d.ts"
+}
